@@ -21,4 +21,4 @@ class lidar_test:
 if __name__ == '__main__':
     rospy.init_node('control_node')
     mgtu_turtle = lidar_test()
-    rospy.spin()        
+    rospy.spin()   
