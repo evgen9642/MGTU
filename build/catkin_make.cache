@@ -1,0 +1,2 @@
+lidar_test
+-DCATKIN_DEVEL_PREFIX=/home/mgtu7496/lidar_test/devel -DCMAKE_INSTALL_PREFIX=/home/mgtu7496/lidar_test/install -G Unix Makefiles
